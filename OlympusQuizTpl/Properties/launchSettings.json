@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OlympusQuizTpl": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
